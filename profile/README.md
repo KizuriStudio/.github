@@ -15,39 +15,6 @@ Nosso objetivo é construir softwares modernos, gratuitos e de alta qualidade pa
 
 ---
 
-# 🚀 Projetos
-
-## 🎮 Kizuri Engine
-
-Game Engine própria para desenvolvimento de jogos 2D e 3D.
-
-Principais características:
-
-- Editor moderno
-- ECS
-- Física 2D e 3D
-- Renderização 2D e 3D
-- Sistema de projetos
-- Prefabs
-- Scripts em C++
-- Futuramente KZScript
-- Exportação multiplataforma
-
----
-
-## 📱 ModelerMaker
-
-Editor/modelador 3D desenvolvido especialmente para dispositivos móveis.
-
-Objetivos:
-
-- Interface otimizada para toque
-- Fácil utilização
-- Compatível com a Kizuri Engine
-- Projeto independente
-
----
-
 # ❤️ Filosofia
 
 Acreditamos que ferramentas profissionais também podem ser acessíveis.
