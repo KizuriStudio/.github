@@ -1,72 +1,23 @@
-<p align="center">
-<h1 align="center">🎮 Kizuri Studio</h1>
+### 🛠️ Kizuri Studio
 
-<p align="center">
-Criando ferramentas para desenvolvedores e jogos.
-</p>
+### 👾 Sobre o Estúdio
 
----
+Bem-vindo ao perfil oficial do **Kizuri Studio**! 
 
-# 👋 Bem-vindo!
+Somos um estúdio focado em engenharia de software, arquitetura de sistemas e criação de ferramentas de produtividade para desenvolvedores. Nosso principal objetivo é construir soluções eficientes que facilitem a criação de jogos e otimizem o fluxo de trabalho de programação. 
 
-A **Kizuri Studio** é um estúdio independente focado no desenvolvimento de ferramentas para criação de jogos.
+🔐 **Nota:** Nossas tecnologias principais, frameworks e códigos-fonte da nossa game engine são mantidos em repositórios privados por motivos estratégicos de desenvolvimento. 
 
-Nosso objetivo é construir softwares modernos, gratuitos e de alta qualidade para a comunidade.
+### 🚀 No que trabalhamos?
 
----
+* 🎮 **Game Engines:** Desenvolvimento de arquitetura, sistemas de renderização, física e lógica de motores de jogos.
+* 🛠️ **Dev Tools:** Criação de ferramentas, plugins, scripts e utilitários que resolvem problemas reais de desenvolvedores.
+* ⚡ **Performance & Otimização:** Código focado em alto desempenho, gerenciamento de memória e eficiência.
 
-# ❤️ Filosofia
+### 💻 Stack Tecnológica
 
-Acreditamos que ferramentas profissionais também podem ser acessíveis.
+Desenvolvendo com tecnologias focadas em performance e robustez: 
 
-Por isso nossos projetos são desenvolvidos pensando em:
-
-- Facilidade de uso
-- Alto desempenho
-- Liberdade para criar
-- Evolução constante
-
----
-
-# 📌 Status
-
-🚧 Desenvolvimento ativo
-
-Os projetos evoluem constantemente e novas funcionalidades são adicionadas regularmente.
-
----
-
-# 🌎 Comunidade
-
-Faça parte da comunidade da Kizuri Studio.
-
-- Compartilhe projetos
-- Sugira funcionalidades
-- Reporte bugs
-- Converse com outros desenvolvedores
-
----
-
-# 🤝 Contribuições
-
-No momento o desenvolvimento é realizado por uma única pessoa.
-
-No futuro pretendemos abrir espaço para colaboradores conforme a comunidade crescer.
-
----
-
-# ❤️ Apoie o projeto
-
-Todos os projetos da Kizuri Studio são gratuitos.
-
-Se quiser ajudar no desenvolvimento, futuramente será possível apoiar através de doações.
-
----
-
-<p align="center">
-
-**Obrigado por visitar a Kizuri Studio!**
-
-Construindo o futuro, uma linha de código por vez.
-
-</p>
+* **Linguagens:** C++, C#, Rust, Python, Luau / Lua
+* **APIs Gráficas & Frameworks:** Vulkan, DirectX, OpenGL, SDL
+* **Ambientes & Ferramentas:** Git, CMake, IDEs de alta performance
